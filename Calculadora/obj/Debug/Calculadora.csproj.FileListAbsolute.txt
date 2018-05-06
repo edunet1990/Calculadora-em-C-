@@ -1,0 +1,10 @@
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\heisenberg\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
